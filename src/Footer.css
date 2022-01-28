@@ -1,0 +1,21 @@
+.footer{
+    background-color: #232F3E !important;
+    margin: 15px;
+    margin-top: 0px;
+    padding: 20px;
+    height: 400px;
+    font: 12px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer__column>h4{
+    color: #DDD;
+    margin: 0px 0px 10px;
+    font-weight: 400;
+}
+
+.footerColumnHeading{
+    color: #FFFFFF !important;
+    font-weight: bolder !important;
+}
